@@ -1,5 +1,6 @@
 # Cloud Native
 Notes from Warsaw Cloud Native conference 2019.
+Feel free to correct typos and add your notes.
 
 ## 9th of September 2019
 
@@ -13,4 +14,8 @@ Notes from Warsaw Cloud Native conference 2019.
 - [Cloud Native - effective computing at scale](../master/day1/effective_computing_at_scale.md)
 
 ## 10th of September 2019
-- TBD
+- [The future of Cloud Computing](../master/day2/future_of_cloud_computing.md)
+- [Functional and event-driven programming in a serverless world?](../master/day2/functional_programming_serverless.md)
+- [Serverless on Kubernetes with Kubeless: Native, lightweight and ready to scale](../master/day2/serverless_with_kubeless)
+- [Attacking Kubernetes](../master/day2/attacking_kubernetes.md)
+- [KEDA - Kubernetes-based Event Driven Autoscaling](../master/day2/keda.md)
