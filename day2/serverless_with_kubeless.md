@@ -24,6 +24,9 @@ Triggers:
 
 #### QA
 **Why should I use kubeless instead of knative?** Knative is for creating service, it's not a framework.
+
 **Can you compare to lambdas on AWS?** There's no vendor locking.
+
 **Can we deploy it on GKE?** Sure.
+
 **Can I use code from AWS lambdas?** Depends on use-case, as long as the function is self-contained you can move it easily.
