@@ -1,5 +1,5 @@
 # Cloud Native
-Notes from Warsaw Cloud Native conference 2019.
+Notes from Cloud Native Warsaw conference 2019.
 
 ## 9th of September 2019
 
