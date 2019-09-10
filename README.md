@@ -2,6 +2,8 @@
 Notes from Warsaw Cloud Native conference 2019.
 Feel free to correct typos and add your notes.
 
+The talks should be available soon on [Cloud Native & Kubernetes Poland YouTube](https://www.youtube.com/channel/UCJAogNgwF8gNnBqxkRCTV0g)
+
 ## 9th of September 2019
 
 👉[Building Machine Learning with Kubeflow and serving them with Kfserving](../master/day1/buidling_ml_kubeflow.md)
